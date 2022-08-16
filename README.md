@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Angeline. I have a degree in Computer Science from Ateneo de Manila University. Currently, I am rediscovering my interest in programming through The Odin Project and learning Web Development. I am hoping to contribute to some projects in the future and learn to collaborate and work with other people's code.
+My name is Angeline. I have a degree in Computer Science from Ateneo de Manila University. Currently, I am rediscovering my interest in programming through The Odin Project. I am hoping to contribute to some projects in the future and learn to collaborate and work with other people's code.
